@@ -1,4 +1,6 @@
-### Hi there 👋
+I'm a roboticist and maker.
+
+[![JStech's github stats](https://github-readme-stats.vercel.app/api?username=JStech)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JStech/JStech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
