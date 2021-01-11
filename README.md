@@ -1,4 +1,4 @@
-I'm a roboticist and maker.
+I'm a roboticist and maker. I specialize in converting pixels, lidar returns, and sonar pings into useful 3-D information.
 
 [![JStech's github stats](https://github-readme-stats.vercel.app/api?username=JStech)](https://github.com/anuraghazra/github-readme-stats)
 
